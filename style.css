@@ -1,0 +1,50 @@
+*
+{
+    text-align: center;
+}
+body{
+    background-color: #F0D9E7; 
+}
+.Head
+{
+    color : #A239EA;
+    font-size: 259%;
+    text-shadow: 1px 1px black;
+}
+.Head1
+{
+    color : #A239EA;
+    font-size: 30px;
+    text-shadow: 1px 1px black;
+    visibility: hidden;
+}
+.textInput
+{
+    position: relative;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 350px;
+    font-size: 20px;
+    background-color: #FF94CC;
+    color: #A239EA;
+    border: 2px solid #A239EA;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+.sub
+{
+    position: absolute;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 9px 25px 9px 24px;
+    font-size: 15px;
+    margin-left: -44px;
+}
+.list
+{
+    font-size: 25px;
+    color: #A239EA;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-shadow: 1px 1px black;
+}
